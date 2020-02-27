@@ -1,1 +1,2 @@
-# DES501-Activities
+# DES501 GitBook Activities
+
