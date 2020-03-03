@@ -1,0 +1,4 @@
+# GitBook Activity 1.2
+
+IT has a diverse number of applications throughout businesses and in business environments. From a general standpoint, IT stands to improve the speed, efficiency, and scope of all business operations. This affects the workplace in a number of meaningful ways; emails and online messaging remove the requirement of face to face interactions and thereby a centralised working location, database systems remove the requirement for pen & paper book-keeping, and so on. These improvements come with their limitations and costs however, and it is important for organisations and businesses to manage things such as what operational services they rely on IT for, how much they budget for IT infrastructure, when face to face interaction is necessary, and how they handle information redundancy.
+
