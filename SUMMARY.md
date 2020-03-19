@@ -9,4 +9,6 @@
 * [Gitbook Activity 2.1](gitbook-activity-2.1.md)
 * [Gitbook Activity 2.2](gitbook-activity-2.2.md)
 * [Gitbook Activity 2 References](gitbook-activity-2-references.md)
+* [GitBook Activity 3.1](gitbook-activity-3.1.md)
+* [GitBook Activity 3.2](gitbook-activity-3.2.md)
 
