@@ -1,2 +1,6 @@
 # GitBook Activity 3.1
 
+In the example shown at [https://techazzist.files.wordpress.com/2012/05/sdlc-big.jpg](https://techazzist.files.wordpress.com/2012/05/sdlc-big.jpg), it is made to be evident that the development life cycle was disjointed and did not reflect the requirements of the end user. A communications breakdown is depicted between the project leader, the systems analyst, the programmer, the business consultant, and operations; resulting in a dysfunctional end product.
+
+This graphic illustrates why the systems development life cycle is important by highlighting how an unstructured development process disrupts the value chain. With a suitable SDLC in place, using the key stages of analysis, identifying requirements, design, development, testing, and deployment & maintenance, an ideal solution is more likely to be reached. The stages of analysis and identifying requirements act to investigate a situation’s needs and operational/functional requirements, so that the scope can be more easily understood for optimal design and implementation. The design and development stages transform the insight gained from the previous steps into a functional and actionable solution. Finally, testing, deployment, and maintenance ensure the operational integrity of the end product.              
+
