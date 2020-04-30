@@ -12,6 +12,6 @@
 * [GitBook Activity 3.1](gitbook-activity-3.1.md)
 * [GitBook Activity 3.2](gitbook-activity-3.2.md)
 * [GitBook Activity 4.1](gitbook-activity-4.1.md)
-* [GitBook Activity 4.1](gitbook-activity-4.1-1.md)
+* [GitBook Activity 4.2](gitbook-activity-4.1-1.md)
 * [GitBook Activity 4 References](gitbook-activity-4-references.md)
 
