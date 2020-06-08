@@ -16,4 +16,7 @@
 * [GitBook Activity 4 References](gitbook-activity-4-references.md)
 * [GitBook Activity 5.1](gitbook-activity-5.1.md)
 * [GitBook Activity 5.2](gitbook-activity-5.2.md)
+* [GitBook Activity 6.1](gitbook-activity-6.1.md)
+* [GitBook Activity 6.2](gitbook-activity-6.2.md)
+* [GitBook Activity 6.3](gitbook-activity-6.3.md)
 
